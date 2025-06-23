@@ -5,7 +5,7 @@
 <img align="right" src="https://bafybeibbnd4v3zbmuyawdxemgezvuhwmso6pyq3o5cni2qugszcoxms65y.ipfs.nftstorage.link/_b37c3fa2-9381-4ed4-8d82-bd33b572697d.jpeg" alt="Developer Blockchain" width="200px" height="auto" />
 
 - 🔭 I’m currently working as an intern for <a href="https://www.syneidolab.com/" target="blank">SYNEIDO LAB</a>
-- 🌱 I’m currently learning <a href="https://vuejs.org/" target="blank">**Vue.js**</a>, <a href="https://nuxt.com/">**Nuxt**</a> & thinking about starting <a href="https://www.rust-lang.org/" target="blank">**RUST**</a>
+- 🌱 I’m currently learning <a href="https://vuejs.org/" target="blank">**Vue.js**</a>, <a href="https://nuxt.com/">**Nuxt**</a> & thinking about starting <a href="https://threejs.org/" target="blank">**ThreeJS**</a>
 - 💬 Ask me about **Javascript, VueJs, Nuxt, React, NextJs**
 - 📄 My experiences :
     - [My linkedin](https://fr.linkedin.com/in/pierre-caudreliez)
