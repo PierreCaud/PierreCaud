@@ -33,7 +33,7 @@ These are tools and languages I tried briefly during courses or short projects â
 
 ## Featured Projects
 - Portfolio / CV â€”  [Personal site](https://cvcaudreliez.netlify.app)
-
+- My association site - [sperkise.com](https://sperkise.com)
 <br/>
 
 ## Profile views and stats:
