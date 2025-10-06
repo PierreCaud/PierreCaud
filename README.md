@@ -40,8 +40,8 @@ These are tools and languages I tried briefly during courses or short projects â
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sterbenfr&label=Profile%20views&style=flat" alt="Sterbenfr" /> </p>
 
 <div align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=PierreCaud&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="max-vast-stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreCaud&layout=compact&theme=cobalt&hide_border=true" alt="max-vast-stats" /></p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=PierreCaud&show_icons=true&locale=en&hide=contribs&rank_icon=github&theme=cobalt&hide_border=true" alt="pierre-caud-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreCaud&layout=compact&theme=cobalt&hide_border=true" alt="pierre-caud-stats" /></p>
 </div>
 
 ### ğŸ†GitHub Trophies
